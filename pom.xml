@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>learn-csm</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -32,9 +32,9 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/katsoras/learn-csm</developerConnection>
-        <url>https://github.com/katsoras/learn-csm</url>
-        <tag>learn-csm-1.0</tag>
+        <developerConnection>scm:git:https://github.com/katsoras/mb2g-release-plugin.git</developerConnection>
+        <url>https://github.com/katsoras/mb2g-release-plugin</url>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
